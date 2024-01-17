@@ -10,4 +10,3 @@ Decide whether you'll prioritize speed, aiming for the title of the "Galactic Sp
 Choose your route wisely. Will you be the delivery hero the galaxy never knew it needed, or will your interstellar adventures lead to unexpected twists and turns? The fate of the pizza-loving cosmos rests in your hands.
 
 **_What would you like to do next?_**
-1. *[Upgrade your cruiser](./upgrade_cruiser.md)*
