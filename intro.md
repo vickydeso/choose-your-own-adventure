@@ -9,6 +9,10 @@ Decide whether you'll prioritize speed, aiming for the title of the "Galactic Sp
 
 Choose your route wisely. Will you be the delivery hero the galaxy never knew it needed, or will your interstellar adventures lead to unexpected twists and turns? The fate of the pizza-loving cosmos rests in your hands.
 
-**_What would you like to do next?_**
+**_What would you like to do next?_**  
 
-3. *[Speed is key](./speed_is_key.md)*
+2. *[Speed is key](./speed_is_key.md)*
+
+4. *[Meet the ultimate celestial celebrity](./celestial_celebrity.md)*
+
+6. *[Take the scenic route](./scenic_route.md)*
