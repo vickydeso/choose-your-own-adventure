@@ -12,6 +12,6 @@ Choose your route wisely. Will you be the delivery hero the galaxy never knew it
 **_What would you like to do next?_**  
 
 1. *[Upgade your Ship](./upgrade_ship.md)*
-2. *[Speed is key](./speed_is_key.md)*
+2. *[Speed is key](./too_much_speed.md)*
 3. *[Meet the ultimate celestial celebrity](./celestial_celebrity.md)*
 4. *[Take the scenic route](./scenic_route.md)*
