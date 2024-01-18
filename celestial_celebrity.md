@@ -15,7 +15,7 @@ You catch yourself in your delusion.
 
 You're stuck in a surreal moment, caught between your pizza delivery duties and the irrestible force of Zorboncé. Zorboncé, noticing your star-strucked state, offers a friendly smile and wave. She extends a tentacle, holding a gleaming star-shaped pen, ready to sign whatever you'd like.
 
-Will you choose to make a new friend in the alien celebrity or ensure the timely arrival of your pizza delivery?
+**_Will you choose to make a new friend in the alien celebrity or ensure the timely arrival of your pizza delivery?_**
 
 1. *[Get the Autograph](./get_autograph.md)*
 2. *Deliver Pizza on Time*
