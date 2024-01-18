@@ -1,5 +1,5 @@
 # Pizza Planet Adventure
-## *Scenic Route*
+## Scenic Route
 
 As the newest delivery person for "Cosmic Crust," I decided to take the scenic route through the Constellation Quarters. I had heard stories of quirky customers and intriguing sights along this path, and I was determined to make my mark by delivering pizzas with precision and care, even if it meant sacrificing a bit of speed.
 
