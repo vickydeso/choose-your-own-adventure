@@ -13,3 +13,11 @@ A friendly extraterrestrial receptionist, with shimmering scales and an array of
 They take note of your pizza cruiser, it has seen better days.
 
 "Oh my... is that a 1st generation CosmicSlice Courier?! Not to worry, you have come to the right place. We'll get you ship shape in no time!"
+
+It took all of your savings, but your cruiser has never looked better!
+
+**_What would you like to do next?_**  
+
+1. *[Speed is Key](./speed_is_key.md)*
+2. *[Meet the Ultimate Celestial Celebrity](./celestial_celebrity.md)*
+3. *[Take the Scenic Route](./scenic_route.md)*
