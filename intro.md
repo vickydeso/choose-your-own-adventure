@@ -11,4 +11,4 @@ Choose your route wisely. Will you be the delivery hero the galaxy never knew it
 
 **_What would you like to do next?_**
 
-Take the Scenic Route
+4. *[Take the scenic route](./scenic_route.md)*
