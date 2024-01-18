@@ -1,5 +1,5 @@
 # Pizza Planet Adventure
-## *Meet the ultimate celestial celebrity*
+## Meet the Ultimate Celestial Celebrity
 
 As you navigate the bustling space station delivering pizzas as usual, a sudden commotion catches your eye. Blinding camera flashes and a crowd of intergalactic fans fill the streets, surrounding none other than chart-topping extraterrestial sensation, *Zorboncé*.
 
