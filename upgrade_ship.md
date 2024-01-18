@@ -1,5 +1,6 @@
 # Pizza Planet Adventure
-## *Upgrading your pizza cruiser*
+
+## Upgrading your pizza cruiser
 
 Welcome to QuasarCraft Repairs, the premier spaceship repair shop nestled within the bustling alien metropolis of Nebulon Prime! As you step through the shimmering entrance, you're greeted by a kaleidoscope of extraterrestrial aromas and the gentle hum of advanced machinery.
 
