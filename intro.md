@@ -11,3 +11,4 @@ Choose your route wisely. Will you be the delivery hero the galaxy never knew it
 
 **_What would you like to do next?_**  
 3. *[Meet the ultimate celestial celebrity](./celestial_celebrity.md)*
+4. *[Take the scenic route](./scenic_route.md)*
