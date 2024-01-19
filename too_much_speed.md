@@ -11,5 +11,5 @@ The intense gravitational forces and erratic celestial phenomena causes severe s
 
 You make an emergency landing on the nearest planet. Your cruiser, and your customers' pizzas, aren't going anywhere until you can repair it.
 
-[Repair your Pizza Cruiser](./upgrade_ship.md)
+1. *[Repair your Pizza Cruiser](./upgrade_ship.md)*
 
