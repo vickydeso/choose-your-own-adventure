@@ -20,5 +20,3 @@ The space communicator lights up with a holographic message displaying:
 > Zorboncé: Stay connected, Cosmic friend. Our paths in the galaxy may cross again.
 
 A wave of excitement and anticipation hits you as you reflect on your encounter. Your future holds a lot more than just carrying out your measly pizza delivery duties. Just as that thought occurs, the persistent beeping of your pizza cruiser snaps you back to reality. You're over 10 minutes behind on your pizza delivery, when your average delivery speed is 10 minutes!
-
-**_What would you like to do next?_**
