@@ -10,5 +10,3 @@ As I approached the first space station in the Constellation Quarters, I was gre
 As I continued along the scenic route, I encountered more unique customers and their otherworldly requests. One asked for a pizza with moon dust as a topping, while another wanted a slice that glowed in the dark. Each delivery brought new surprises and cosmic wonders, making me appreciate the diversity and quirkiness of the galaxy's inhabitants.
 
 While the scenic route took a bit longer, it allowed me to form connections with the residents of the space stations, who often shared stories of their adventures among the stars. I may not have broken any speed records, but I had certainly become the delivery hero of the Constellation Quarters, forging friendships and creating unforgettable pizza experiences in the vast expanse of the cosmic universe.
-
-**_What would you like to do next?_**
