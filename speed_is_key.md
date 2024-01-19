@@ -42,3 +42,7 @@ Another Delivery Man?
 >Nice... follow me
 
 You and the other delivery man drive to the moon. As you land, you get out of your car and go to your trunk to get the fuel transfer tube. Footsteps echoed in the lunar silence, you assume the delivery man is going to help you. **THUD**, the delivery man smashes a stone to your head. You died.
+
+### Epilogue 
+
+After the so called delivery man smashes your head, he proceeds to dump your body into your cruiser's trunk. He hops into the cruiser and drives off, leaving the crusty one behind. You are the second victim of his crimes, as his first victim was a previous *Cosmic Crust* employee. That employee also wanted to be the Galactic Speedster, but this man didn't want anyone to achieve that goal. This murderer had one goal only, to make sure that *Cosmic Crust* has a downfall, since the killer used to be the CEO of the company. He was full of vengance from the moment Mr. X AE A-XII Musk stole his position, and kicked him out of the company using his money. Till this day, he will kill every employee who tries to be the Galactic Speedster until the company burns to the ground.
