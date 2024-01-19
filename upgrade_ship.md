@@ -9,11 +9,11 @@ Hovering repair drones equipped with multiple appendages expertly navigate throu
 
 A friendly extraterrestrial receptionist, with shimmering scales and an array of antennae, greets you with a welcoming chirp in a harmonious language that seems to resonate with the vibrancy of the surrounding environment.
 
-"Greetings! How may we assist you?"
+> "Greetings! How may we assist you?"
 
 They take note of your pizza cruiser, it has seen better days.
 
-"Oh my... is that a 1st generation CosmicSlice Courier?! Not to worry, you have come to the right place. We'll get you ship shape in no time!"
+> "Oh my... is that a 1st generation CosmicSlice Courier?! Not to worry, you have come to the right place. We'll get you ship shape in no time!"
 
 It took all of your savings, but your cruiser has never looked better!
 
