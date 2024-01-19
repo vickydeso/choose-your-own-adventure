@@ -18,4 +18,3 @@ You're stuck in a surreal moment, caught between your pizza delivery duties and 
 **_Will you choose to make a new friend in the alien celebrity or ensure the timely arrival of your pizza delivery?_**
 
 1. *[Get the Autograph](./get_autograph.md)*
-2. *Deliver Pizza on Time*
